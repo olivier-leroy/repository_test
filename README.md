@@ -1,2 +1,2 @@
 # repository_test
-ceci est la desfritpionde mon repository test
+ceci est la descritpion de mon repository test
